@@ -1,36 +1,37 @@
-# Git CLI Quiz
+# Git Quiz
 
-Remember, you must submit this quiz using __ONLY__ Git on the Command Line.
 
-You __CANNOT__ open Github Desktop.
 
 ---
 
-1. What is a benefit of using the Git CLI rather than a GUI?
+1. What is a repository?
 
-<!-- Write your answer here -->
-my answer is
+<!-- Write your answer under here -->
 
-2. What is the Git command to send your code to Github?
+2. What is the Git command to make a copy of a repo to your laptop?
 
-<!-- Write your answer here -->
+<!-- Write your answer under here -->
 
-3. What does the -m in a Git commit command mean or do?
+3. What is the Git command to send your code to Github?
 
-<!-- Write your answer here -->
+<!-- Write your answer under here -->
 
-4. What is the Git command for making a commit?
-
-<!-- Write your answer here -->
-
-5. What is the Git command to select the files you want to add to a commit?
+4. What does the -m in a Git commit command mean or do?
 
 <!-- Write your answer here -->
 
-6. What is the Git command to see changes you have waiting to be committed?
+5. What is the Git command for making a commit?
 
 <!-- Write your answer here -->
 
-7. What is the Git command to get changes from Github onto your computer?
+6. What is the Git command to put your files in the staging area?
+
+<!-- Write your answer here -->
+
+7. What is the Git command to see changes you have waiting to be committed?
+
+<!-- Write your answer here -->
+
+8. What does origin stand for when pushing you code?
 
 <!-- Write your answer here -->
