@@ -28,10 +28,6 @@
 
 <!-- Write your answer here -->
 
-7. What is the Git command to see changes you have waiting to be committed?
-
-<!-- Write your answer here -->
-
-8. What does origin stand for when pushing you code?
+7. What does origin stand for when pushing you code?
 
 <!-- Write your answer here -->
